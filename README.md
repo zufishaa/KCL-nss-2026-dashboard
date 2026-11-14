@@ -65,4 +65,4 @@ KCL Themes Below Benchmark =
 ## Tools
 Power BI Desktop (Power Query, DAX, conditional formatting) and Excel.
 
-*Author: Zufishaa Ayub · MSc Business Analytics, University of Greenwich*
+*Author: Zufishaa Ayub*
